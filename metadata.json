@@ -1,0 +1,5 @@
+{
+  "name": "CryptoPredict AI",
+  "description": "Real-time cryptocurrency price prediction engine using Binance data and Gemini AI analysis of technical indicators.",
+  "requestFramePermissions": []
+}
